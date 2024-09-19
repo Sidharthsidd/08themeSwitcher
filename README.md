@@ -8,9 +8,4 @@
 - **User-Friendly Interface:** Simple and intuitive components for theme selection.
 - **Easy Integration:** Easily integrate theme switching into your React applications with minimal setup.
 
-## Installation
 
-To install 08themeSwitcher, use npm or yarn:
-
-```bash
-npm install 08themeSwitcher
